@@ -23,6 +23,14 @@ I'm Daniel Vinciguerra (aka. Vince)
 - 📫 How to reach me: [e-mail](mailto:daniel.vinciguerra+github@bivee.com.br), [twitter](https://twitter.com/dvinciguerra) and [linkedin](https://linkedin.com/in/dvinciguerra)
 - 🤪 Fun fact: My hobby is learn and I like to build automations a lot (integration, workers, IoT, home automation, etc)!
 
+### Find me at...
+ 
+
+🐦 [Twitter](https://twitter.com/dvinciguerra) <br>
+📸 [Instagram](https://instagram.com/danielvinciguerra) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/dvinciguerra) <br>
+ 
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=dvinciguerra&count_private=true&show_icons=true&card_width=600&theme=buefy" />
 </a>
