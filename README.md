@@ -15,15 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🤓 Architect, Engineer, [#perl](https://github.com/Perl/perl5), [#ruby](https://github.com/ruby/ruby), [#js](https://github.com/nodejs/node), clang, hacker
-
+🤓 Architect, Engineer, [#perl](https://github.com/Perl/perl5), [#ruby](https://github.com/ruby/ruby), [#js](https://github.com/nodejs/node), clang, hacker <br>
 💻 Senior Software Engineer @ [Resultados Digitais](https://github.com/ResultadosDigitais)
 
 
 ### Currently working on...
 
-💡 Learning more about [#rust](https://github.com/rust-lang/rust) and [#elixir](https://github.com/elixir-lang/elixir) languages and #devops
-
+💡 Learning more about [#rust](https://github.com/rust-lang/rust) and [#elixir](https://github.com/elixir-lang/elixir) languages and #devops <br>
 🤖 Working in a lot of integration, workers, IoT, home automation, other automation things. =)
 
 
