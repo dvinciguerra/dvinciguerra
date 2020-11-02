@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there... I'm Daniel Vinciguerra (aka. Vince) 👋
 
 <!--
 **dvinciguerra/dvinciguerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,16 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Daniel Vinciguerra (aka. Vince)
+- 🤓 Architect, Engineer, [#perl](https://github.com/Perl/perl5), [#ruby](https://github.com/ruby/ruby), [#js](https://github.com/nodejs/node), clang, hacker
+- 💻 Senior Software Engineer @ [Resultados Digitais](https://github.com/ResultadosDigitais)
 
-- 💻 I’m currently working as Senior Software Engineer/Architect
-- 💡 I’m currently learning more about [#rust](https://github.com/rust-lang/rust) and [#elixir](https://github.com/elixir-lang/elixir) languages and #devops
-- 💬 Ask me about software architecture, engineering, ruby and perl topics
-- 📫 How to reach me: [e-mail](mailto:daniel.vinciguerra+github@bivee.com.br), [twitter](https://twitter.com/dvinciguerra) and [linkedin](https://linkedin.com/in/dvinciguerra)
-- 🤪 Fun fact: My hobby is learn and I like to build automations a lot (integration, workers, IoT, home automation, etc)!
 
-### Find me at...
- 
+### Currently working on...
+
+- 💡 Learning more about [#rust](https://github.com/rust-lang/rust) and [#elixir](https://github.com/elixir-lang/elixir) languages and #devops
+- 🤖 Working in a lot of integration, workers, IoT, home automation, other automation things. =)
+
+
+### Find me at... 
 
 🐦 [Twitter](https://twitter.com/dvinciguerra) <br>
 📸 [Instagram](https://instagram.com/danielvinciguerra) <br>
