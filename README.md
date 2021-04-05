@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 🤓 Architect, Engineer, [#perl](https://github.com/Perl/perl5), [#ruby](https://github.com/ruby/ruby), [#js](https://github.com/nodejs/node), clang, hacker <br>
-💻 Senior Software Engineer @ [Resultados Digitais](https://github.com/ResultadosDigitais)
+💻 Software Engineer Tech Leader @ [Resultados Digitais](https://github.com/ResultadosDigitais)
 
 
 ### Currently working on...
 
-💡 Learning more about [#rust](https://github.com/rust-lang/rust) and [#elixir](https://github.com/elixir-lang/elixir) languages and #devops <br>
+💡 Trying to learn a bit more about [#rust](https://github.com/rust-lang/rust) and [#elixir](https://github.com/elixir-lang/elixir) and maybe [#go](https://github.com/golang/go) languages and some #devops stuffs <br>
 🤖 Working in a lot of integration, workers, IoT, home automation, other automation things. =)
 
 
