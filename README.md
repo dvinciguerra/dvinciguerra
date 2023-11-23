@@ -1,7 +1,7 @@
 ### Hi there... I'm Daniel Vinciguerra (aka. Vince) 👋
 
 🤓 Software Engineer, Tech Lead, [#perl](https://github.com/Perl/perl5), [#ruby](https://github.com/ruby/ruby), [#js](https://github.com/nodejs/node), clang, hacker <br>
-💻 Software Engineer Tech Lead @ [RD Station](https://github.com/ResultadosDigitais)
+💻 Senior Software Engineer @ [RD Station](https://github.com/ResultadosDigitais)
 
 
 <p float="left">
